@@ -1,0 +1,23 @@
+body {
+  background-color: lavender;
+}
+
+hr {
+border-style:none;
+border-top-style: dotted;
+background-color: lavender;
+border-color: grey;
+border-width: 5px;
+width: 5%
+}
+h3{
+  color: #18978F;
+}
+h1{
+  color: #242F9B;
+}
+
+
+img {
+  height: 180px;
+}
